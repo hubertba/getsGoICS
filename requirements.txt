@@ -1,0 +1,4 @@
+icalendar>=5.0.13
+requests>=2.31.0
+pytest>=8.3.0
+

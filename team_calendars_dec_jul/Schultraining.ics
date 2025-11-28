@@ -1,0 +1,308 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//icsImporter//Team Calendar Export//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Team Schultraining
+X-WR-CALNAME:Team Schultraining
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20251204T150000
+DTEND;TZID=Europe/Vienna:20251204T163000
+DTSTAMP:20250918T064941Z
+UID:667069
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667069
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20251211T150000
+DTEND;TZID=Europe/Vienna:20251211T163000
+DTSTAMP:20250918T064941Z
+UID:667070
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667070
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20251218T150000
+DTEND;TZID=Europe/Vienna:20251218T163000
+DTSTAMP:20250918T064941Z
+UID:667071
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20251225T150000
+DTEND;TZID=Europe/Vienna:20251225T163000
+DTSTAMP:20250918T064941Z
+UID:667072
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667072
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260101T150000
+DTEND;TZID=Europe/Vienna:20260101T163000
+DTSTAMP:20250918T064941Z
+UID:667073
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667073
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260108T150000
+DTEND;TZID=Europe/Vienna:20260108T163000
+DTSTAMP:20250918T064941Z
+UID:667074
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667074
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260115T150000
+DTEND;TZID=Europe/Vienna:20260115T163000
+DTSTAMP:20250918T064941Z
+UID:667075
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667075
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260122T150000
+DTEND;TZID=Europe/Vienna:20260122T163000
+DTSTAMP:20250918T064941Z
+UID:667076
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667076
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260129T150000
+DTEND;TZID=Europe/Vienna:20260129T163000
+DTSTAMP:20250918T064941Z
+UID:667077
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667077
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260205T150000
+DTEND;TZID=Europe/Vienna:20260205T163000
+DTSTAMP:20250918T064941Z
+UID:667078
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260212T150000
+DTEND;TZID=Europe/Vienna:20260212T163000
+DTSTAMP:20250918T064941Z
+UID:667079
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667079
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260219T150000
+DTEND;TZID=Europe/Vienna:20260219T163000
+DTSTAMP:20250918T064941Z
+UID:667080
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260226T150000
+DTEND;TZID=Europe/Vienna:20260226T163000
+DTSTAMP:20250918T064941Z
+UID:667081
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667081
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260305T150000
+DTEND;TZID=Europe/Vienna:20260305T163000
+DTSTAMP:20250918T064941Z
+UID:667082
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667082
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260312T150000
+DTEND;TZID=Europe/Vienna:20260312T163000
+DTSTAMP:20250918T064941Z
+UID:667083
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667083
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260319T150000
+DTEND;TZID=Europe/Vienna:20260319T163000
+DTSTAMP:20250918T064941Z
+UID:667084
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667084
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260326T150000
+DTEND;TZID=Europe/Vienna:20260326T163000
+DTSTAMP:20250918T064941Z
+UID:667085
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260402T150000
+DTEND;TZID=Europe/Vienna:20260402T163000
+DTSTAMP:20250918T064941Z
+UID:667086
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667086
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260409T150000
+DTEND;TZID=Europe/Vienna:20260409T163000
+DTSTAMP:20250918T064941Z
+UID:667087
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667087
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260416T150000
+DTEND;TZID=Europe/Vienna:20260416T163000
+DTSTAMP:20250918T064941Z
+UID:667088
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260423T150000
+DTEND;TZID=Europe/Vienna:20260423T163000
+DTSTAMP:20250918T064941Z
+UID:667089
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667089
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260430T150000
+DTEND;TZID=Europe/Vienna:20260430T163000
+DTSTAMP:20250918T064941Z
+UID:667090
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667090
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260507T150000
+DTEND;TZID=Europe/Vienna:20260507T163000
+DTSTAMP:20250918T064941Z
+UID:667091
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667091
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260514T150000
+DTEND;TZID=Europe/Vienna:20260514T163000
+DTSTAMP:20250918T064941Z
+UID:667092
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667092
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260521T150000
+DTEND;TZID=Europe/Vienna:20260521T163000
+DTSTAMP:20250918T064941Z
+UID:667093
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667093
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260528T150000
+DTEND;TZID=Europe/Vienna:20260528T163000
+DTSTAMP:20250918T064941Z
+UID:667094
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667094
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260604T150000
+DTEND;TZID=Europe/Vienna:20260604T163000
+DTSTAMP:20250918T064941Z
+UID:667095
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667095
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260611T150000
+DTEND;TZID=Europe/Vienna:20260611T163000
+DTSTAMP:20250918T064941Z
+UID:667096
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667096
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260618T150000
+DTEND;TZID=Europe/Vienna:20260618T163000
+DTSTAMP:20250918T064941Z
+UID:667097
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667097
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schultraining
+DTSTART;TZID=Europe/Vienna:20260625T150000
+DTEND;TZID=Europe/Vienna:20260625T163000
+DTSTAMP:20250918T064941Z
+UID:667098
+DESCRIPTION:\n\n\n
+LOCATION:Schanzgasse 22\, 7461 Stadtschlaining
+URL:https://app.vereinsplaner.at/t/aktuelles/termine/667098
+END:VEVENT
+END:VCALENDAR
